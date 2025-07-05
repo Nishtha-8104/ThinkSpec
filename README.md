@@ -34,7 +34,7 @@
 
 - Python 3.10+
 - [Ollama](https://ollama.com) installed and running
-- Required Python packages: `langchain`, `ollama`, `pydantic`, `typer`, `rich`
+- Required Python packages: `langchain`, `ollama`
 
 ### Installation
 
